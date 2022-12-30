@@ -1,5 +1,5 @@
 <!--This Way Must let Repository Public-->
 <script>
-var audio = new Audio("https://github.com/lance8403/Audio/blob/main/Ladybugs.m4a?raw=true")
+var audio = "https://github.com/lance8403/Audio/blob/main/Ladybugs.m4a?raw=true"
 audio.play()
 </script>
